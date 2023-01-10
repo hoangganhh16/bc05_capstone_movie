@@ -1,9 +1,0 @@
-//! chuyển hướng về trang chủ
-
-//! chỗ này set default language
-
-//! cấu hình real ( dùng websocket bằng SignalR)
-
-//!antd
-
-//!reactslick
